@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi 👋 My name is Andika Safri
+=============================
 
-<!--
-**andikasafri/andikasafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer & Automation Tester
+---------------------------------
 
-Here are some ideas to get you started:
+Curiosity drives me to push the boundaries of web technology. My journey began as a QA Assistant, where I first discovered the transformative power of coding. This initial step opened my eyes to a world where technology has the potential to change lives. Determined to deepen my expertise, I joined Apicore GmbH as a QA Engineer. During my time there, I developed and automated over 700+ test cases, significantly enhancing the efficiency and reliability of web applications. Now, as a student at RevoU Academy, I have taken my skills to the next level, learning to craft responsive, user-focused applications and adopting modern development practices. This experience has been a wake-up call, solidifying my passion for software engineering and pushing me to grow as both a developer and a problem-solver. I am excited to continue this journey, contributing to impactful projects and evolving further in the ever-changing world of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Jakarta
+* 🖥️  See my portfolio at [Check my Portfolio Out!](http://module-2-andikasafri.netlify.app/)
+* ✉️  You can contact me at [andika.saf3@gmail.com](mailto:andika.saf3@gmail.com)
+* 🚀  I'm currently working on [Integrating REST API](http://andom-recipe-website.netlify.app/)
+* 🧠  I'm learning I am excited with NextJs and ThreeJs
+* 🤝  I'm open to collaborating on API and Automation Testing
+* ⚡  Taking one step at a time helps me gradually build me personally
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andikasafri&theme=highcontrast&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andikasafri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/andikasafri/github-readme-stats#gh-dark-mode-only)
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/andika_safri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/andikasafri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/andikasafri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/andikasafri/recipe-randomizer-journey" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andikasafri&repo=recipe-randomizer-journey&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/andikasafri/milestone-1-andikasafri" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andikasafri&repo=milestone-1-andikasafri&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/andikasafri/module-3-andikasafri" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andikasafri&repo=module-3-andikasafri&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/andikasafri/module-2-andikasafri" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andikasafri&repo=module-2-andikasafri&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
